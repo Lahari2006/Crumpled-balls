@@ -1,2 +1,2 @@
-# Crumpled-balls
-Throw the paper ball in the dustbin.
+# C25 Crumpled balls Project
+
